@@ -5,37 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06d0519f-21c5-4e81-9cbb-49d5a72d90a3" name="Changes" comment="22nd Feb">
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/ContainerWithMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/FindMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/OperationInArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/PairSum1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/PairSum2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/PrintAL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/Swap2Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/LList1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/LList2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/LList3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/LList4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue/Deque1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue/Deque2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue/Deque3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue/Queue1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue/Queue2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue/Queue3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue/Queue4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue/Queue5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue/Queue6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue/Queue7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue/Queue8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortingTechiniques/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortingTechiniques/CountingSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortingTechiniques/InbuiltSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortingTechiniques/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortingTechiniques/OptimisedBubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortingTechiniques/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stacks/DuplicateParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stacks/ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/Part1/BT1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/Part1/BT2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/Part1/BT3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/Part1/BT4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExtractNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/LList5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/LList6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/LList7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/LList8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +45,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BT1.executor": "Run",
+    "Application.BT2.executor": "Run",
+    "Application.BT3.executor": "Run",
+    "Application.BT4.executor": "Run",
     "Application.BubbleSort.executor": "Run",
     "Application.ContainerWithMostWater.executor": "Run",
     "Application.CountingSort.executor": "Run",
@@ -73,6 +56,7 @@
     "Application.Deque2.executor": "Run",
     "Application.Deque3.executor": "Run",
     "Application.DuplicateParentheses.executor": "Run",
+    "Application.ExtractNumbers.executor": "Run",
     "Application.FindMax.executor": "Run",
     "Application.InbuiltSorting.executor": "Run",
     "Application.InsertionSort.executor": "Run",
@@ -80,6 +64,9 @@
     "Application.LList2.executor": "Run",
     "Application.LList3.executor": "Run",
     "Application.LList4.executor": "Run",
+    "Application.LList5.executor": "Run",
+    "Application.LList6.executor": "Run",
+    "Application.LList7.executor": "Run",
     "Application.LinkedList.executor": "Run",
     "Application.OperationInArrayList.executor": "Run",
     "Application.OptimisedBubbleSort.executor": "Run",
@@ -97,6 +84,7 @@
     "Application.ReverseAStack.executor": "Run",
     "Application.ReverseAStringUsingAStack.executor": "Run",
     "Application.SelectionSort.executor": "Run",
+    "Application.Solution.executor": "Run",
     "Application.Stack1.executor": "Run",
     "Application.Stack2.executor": "Run",
     "Application.StockSpan.executor": "Run",
@@ -137,7 +125,9 @@
       <workItem from="1708595897300" duration="3573000" />
       <workItem from="1708619410599" duration="2667000" />
       <workItem from="1708707169126" duration="2996000" />
-      <workItem from="1708874061227" duration="50596000" />
+      <workItem from="1708874061227" duration="53346000" />
+      <workItem from="1709960227334" duration="13000" />
+      <workItem from="1709960412846" duration="13590000" />
     </task>
     <servers />
   </component>
